@@ -1,5 +1,3 @@
-# CorinaMurg
-
 👋 Hi, I'm Corina. I enjoy building responsive websites with a focus on user accessibility.
 
 🛠 My tools:
