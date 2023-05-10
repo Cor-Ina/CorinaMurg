@@ -11,6 +11,6 @@
 
 My current work involves translating modern designs created by Frontendmentor.io into accessible and responsive websites.
 
-You can learn more about my work at https://www.frontendmentor.io/profile/Cor-Ina.
+You can learn more about my work at www.frontendmentor.io/profile/Cor-Ina.
                                     
 🤝 I am open to collaborating on CSS/JavaScript projects
