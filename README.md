@@ -8,7 +8,7 @@
 - Figma
 - Canva
 
-My current work involves translating modern designs created by Frontendmentor.io into accessible and responsive websites.
+My current work involves translating modern designs created by Frontendmentor.io into pixel-perfect websites.
 
 You can learn more about my work at www.frontendmentor.io/profile/Cor-Ina.
 
