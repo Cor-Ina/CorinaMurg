@@ -14,4 +14,4 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 
 📚 Currently learning: React
                          
-👷 I am open to collaborating on CSS/JavaScript projects.
+👷 I am open to collaborating on a11y / CSS / JavaScript projects.
