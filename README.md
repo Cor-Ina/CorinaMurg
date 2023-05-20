@@ -15,6 +15,7 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 📚 Currently learning: React
 
 My favorite resources on learning about accessibility:
-  -** W3C Before and After Demonstration**: This resource consists of multiple pages showcasing an inaccessible website and a retrofitted version of the same website. Each page includes inline annotations that can be activated to identify and highlight important accessibility barriers or the corresponding repairs made. Additionally, an evaluation report accompanies each web page, providing developers with insights into the website's conformance to the Web Content Accessibility Guidelines (WCAG).
+  - W3C Before and After Demonstration: This resource consists of multiple pages showcasing an inaccessible website and a retrofitted version of the same website. Each page includes inline annotations that can be activated to identify and highlight important accessibility barriers or the corresponding repairs made. Additionally, an evaluation report accompanies each web page, providing developers with insights into the website's conformance to the Web Content Accessibility Guidelines (WCAG).
+  - Duke University Accessibility page: https://web.accessibility.duke.edu/how/web-development/
                          
 👷 I am open to collaborating on a11y / CSS / JavaScript projects.
