@@ -14,8 +14,8 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 
 📚 Currently learning: BEM, React
 
-![blueicon](https://github.com/Cor-Ina/Cor-Ina/assets/115652409/263f142a-8615-421a-8198-b93b0959ecd9)
-My favorite resources on learning about accessibility:
+
+<i class="fa-brands fa-accessible-icon"></i> My favorite resources on learning about accessibility:
   - [W3C Before and After Demonstration](https://www.w3.org/WAI/demos/bad/): Showcases an inaccessible website and a retrofitted version of the same website. Each page includes inline annotations that can be activated to identify and highlight important accessibility barriers or the corresponding repairs made. Additionally, an evaluation report accompanies each web page, providing developers with insights into the website's conformance to the Web Content Accessibility Guidelines (WCAG).
   - [Duke University Accessibility page](https://web.accessibility.duke.edu/how/web-development/)
   - [Jon Kuperman's Website Accessibility course](https://frontendmasters.com/courses/accessibility-v2/) on Frontend Masters
