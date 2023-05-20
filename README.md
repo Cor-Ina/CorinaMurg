@@ -1,5 +1,6 @@
 👋 Hi, I'm Corina, a front-end developer with a background in teaching math.
-<br> My current work involves translating modern designs created by Frontendmentor.io 
+<br>
+<br> My current work involves translating modern designs created by <a href="Frontendmentor.io" target="_blank">Front End Mentor</a>
 <br> into accessible, responsive, and pixel-perfect websites.
 
 You can learn more about my work at www.frontendmentor.io/profile/Cor-Ina.
