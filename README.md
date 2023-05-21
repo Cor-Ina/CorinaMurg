@@ -16,7 +16,8 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 
 
 ♿️ My favorite resources on learning about accessibility:
-  - [W3C Before and After Demonstration](https://www.w3.org/WAI/demos/bad/): It showcases an inaccessible website and 
+  - [W3C Before and After Demonstration](https://www.w3.org/WAI/demos/bad/)
+  <br>It showcases an inaccessible website and 
   <br>a retrofitted version of the same website. Each page includes inline annotations that can be activated to identify 
   <br>and highlight important accessibility barriers or the corresponding repairs made. Additionally, an evaluation report 
   <br>accompanies each web page, providing developers with insights into the website's conformance to WCAG.
