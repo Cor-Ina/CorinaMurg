@@ -8,7 +8,7 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 
 🛠 My tools:
 - CSS
-- a11y
+- A11y
 - JavaScript
 - Figma + Sketch
 
