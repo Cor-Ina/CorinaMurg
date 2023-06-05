@@ -7,12 +7,12 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 <br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
 
 🛠 My tools:
-- CSS
+- CSS, BEM
 - A11y
 - JavaScript
 - Figma + Sketch
 
-📚 Currently learning: BEM, React
+📚 Currently learning: React, Sass
 
 
 ♿️ My favorite resources on learning about accessibility:
