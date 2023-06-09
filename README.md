@@ -20,7 +20,8 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
   <br>It showcases an inaccessible website and a retrofitted version of the same website. 
   <br>Each page includes inline annotations that can be activated to identify and
   <br>highlight important accessibility barriers or the corresponding repairs made. 
-  - [Duke University Accessibility page](https://web.accessibility.duke.edu/how/web-development/)
+  - [Duke University Accessibility pages](https://web.accessibility.duke.edu/how/web-development/)
+  - [Harvard's Accessibility pages](https://accessibility.huit.harvard.edu/content-creators)
   - [Jon Kuperman's Website Accessibility course](https://frontendmasters.com/courses/accessibility-v2/) on Frontend Masters
                          
-👷 I am open to collaborating on a11y / CSS / JavaScript projects.
+👷 I am open to collaborating on a11y / CSS / JavaScript / React projects.
