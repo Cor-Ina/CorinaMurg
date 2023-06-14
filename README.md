@@ -6,6 +6,9 @@
 Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina) to learn more about my work.
 <br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
 
+Quick links to my latest projects:
+
+
 🛠 My tools:
 - CSS, BEM
 - A11y
