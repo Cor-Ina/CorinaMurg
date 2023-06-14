@@ -1,10 +1,10 @@
 👋 **Hi, I'm Corina, a frontend developer with a background in math teaching.**
 <br>
-<br> My current work involves translating modern designs created by [Frontend Mentor](https://www.frontendmentor.io)
-<br> into accessible, responsive, and pixel-perfect websites.
+<br> My current work involves translating modern designs created by 
+<br> [Frontend Mentor](https://www.frontendmentor.io) into accessible, responsive, and pixel-perfect websites.
 
 Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina)** to learn more about my work.
-<br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
+<br>I welcome questions or suggestions on how to improve my code, <br>especially on features related to accessibility.
 
 
 
@@ -16,9 +16,9 @@ Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/C
 
 <br>📚 **Currently learning: React, Sass**
 
-- Quick link to my current React project:
+- Quick link to my current React project, a Desktop Notes App:
 
-[<img alt="Screenshot of Notes app in dark mode" src="./images/Notes.jpg" width="300" height="auto">](https://corina-react-notes.netlify.app/)
+[<img alt="Screenshot of Notes app in dark mode" src="./images/Notes.jpg" width="400" height="auto">](https://corina-react-notes.netlify.app/)
 
 
 
