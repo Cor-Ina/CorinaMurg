@@ -1,26 +1,28 @@
-👋 Hi, I'm Corina, a frontend developer with a background in math teaching.
+👋 **Hi, I'm Corina, a frontend developer with a background in math teaching.**
 <br>
 <br> My current work involves translating modern designs created by [Frontend Mentor](https://www.frontendmentor.io)
 <br> into accessible, responsive, and pixel-perfect websites.
 
-Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina) to learn more about my work.
+Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina)** to learn more about my work.
 <br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
 
-Quick links to my latest projects:
-
-[<img alt="Screenshot of Notes app in dark mode" src="./Notes.jpg" width="300" height="auto">](https://corina-react-notes.netlify.app/)
 
 
-🛠 My tools:
+<br>🛠 **My tools:**
 - CSS, BEM
 - A11y
 - JavaScript
 - Figma + Sketch
 
-📚 Currently learning: React, Sass
+<br>📚 **Currently learning: React, Sass**
+
+- Quick link to my current React project:
+
+[<img alt="Screenshot of Notes app in dark mode" src="./images/Notes.jpg" width="300" height="auto">](https://corina-react-notes.netlify.app/)
 
 
-♿️ My favorite resources on learning about accessibility:
+
+<br>♿️ **My favorite resources on learning about accessibility:**
   - [W3C Before and After Demonstration](https://www.w3.org/WAI/demos/bad/)
   <br>It showcases an inaccessible website and a retrofitted version of the same website. 
   <br>Each page includes inline annotations that can be activated to identify and
@@ -29,4 +31,4 @@ Quick links to my latest projects:
   - [Harvard's Accessibility pages](https://accessibility.huit.harvard.edu/content-creators)
   - [Jon Kuperman's Website Accessibility course](https://frontendmasters.com/courses/accessibility-v2/) on Frontend Masters
                          
-👷 I am open to collaborating on a11y / CSS / JavaScript / React projects.
+<br>👷 **I am open to collaborating on a11y / CSS / JavaScript / React projects.**
