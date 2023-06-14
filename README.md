@@ -7,7 +7,8 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 <br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
 
 Quick links to my latest projects:
-![Screenshot of Notes app in dark mode](./Notes.jpg =300x200)
+
+[<img alt="Screenshot of Notes app in dark mode" src="./Notes.jpg" width="300" height="auto">](https://corina-react-notes.netlify.app/)
 
 
 🛠 My tools:
