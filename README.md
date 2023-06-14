@@ -19,7 +19,9 @@ Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/C
 - Quick link to my current React project, a Desktop Notes App:
 
 [<img alt="Screenshot of Notes app in dark mode" src="./images/Notes.jpg" width="400" height="auto">](https://corina-react-notes.netlify.app/)
-
+<br>Features I'm tinkering with:
+- adding several font color options for the dark mode layout
+- mobile-friendly design
 
 
 <br>♿️ **My favorite resources on learning about accessibility:**
