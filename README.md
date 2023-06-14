@@ -7,7 +7,7 @@ Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor
 <br>I welcome questions or suggestions on how to improve my code, especially on features related to accessibility.
 
 Quick links to my latest projects:
-![Screenshot of Notes app in dark mode](./Notes.jpg)
+![Screenshot of Notes app in dark mode](./Notes.jpg =300x200)
 
 
 🛠 My tools:
