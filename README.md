@@ -4,7 +4,7 @@
 <br> [Frontend Mentor](https://www.frontendmentor.io) into accessible, responsive, and pixel-perfect websites.
 
 Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina)** to learn more about my work.
-<br>I welcome questions or suggestions on how to improve my code, <br>especially on features related to accessibility.
+<br>I **welcome** questions about my code or suggestions on how to improve it, <br>especially on features related to accessibility.
 
 
 
