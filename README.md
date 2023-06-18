@@ -20,8 +20,9 @@ Quick link to my current React project, **NEAT NOTES**, a Desktop notes app:
 <br>
 [<img alt="Screenshot of Notes app in dark mode" src="./images/NeatNotes.jpg" width="500" height="auto">](https://neatnotes.netlify.app/)
 <br>Features I'm tinkering with:
-- adding several font color options for the dark mode layout
-- mobile-friendly design
+- adding several font color options
+- sorting notes chronologically or alphabetically
+- mobile-friendly layout and design
 
 
 <br>♿️ **My favorite resources on learning about accessibility:**
