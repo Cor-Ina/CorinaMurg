@@ -25,7 +25,9 @@ Quick link to my current React project, **NEAT NOTES**, a Desktop notes app:
 - mobile-friendly layout and design
 
 
-<br>♿️ **My favorite resources on learning about accessibility:**
+<br>♿️ **A digital product that is not accessible, it is NOT ready.
+<br>The hardest part of learning to develop websites has been finding examples
+<br>of accessible web products. So far, these have been my favorite resources:**
   - [W3C Before and After Demonstration](https://www.w3.org/WAI/demos/bad/)
   <br>It showcases an inaccessible website and a retrofitted version of the same website. 
   <br>Each page includes inline annotations that can be activated to identify and
