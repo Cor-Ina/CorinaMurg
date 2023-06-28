@@ -15,15 +15,20 @@ Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/C
 - Figma + Sketch
 
 <br>📚 **Currently learning: React, Sass**
-
-Quick link to my current React project, **NEAT NOTES**, a Desktop notes app: 
+<br>Quick link to my current React project, **Tenzies**, a number game
 <br>
-[<img alt="Screenshot of Notes app in dark mode" src="./images/NeatNotes.jpg" width="500" height="auto">](https://neatnotes.netlify.app/)
-<br>Features I'm tinkering with:
-- adding several font color options
-- accessibility features
-- sorting notes chronologically or alphabetically
-- mobile-friendly layout and design
+<br>Image description: Snapshot of a game on Tenzies. The rules read:
+<br>"Roll until all dice are the same. Click each die to freeze it at its current
+<br> value between rolls." Ten dice are shown in two rows, with values 2, 2, 1, 4,
+<br>  2, 2, 1, 5, 1, 1. All values of 1 have a yellow background because they are 
+<br>frozen values. Last element is a blue roll button.
+<br>
+[<img alt="Screenshot of the Tenzies game. " src="./images/Tenzies.jpg" width="400" height="auto">](https://corina-tenzies.netlify.app/)
+<br>The game is accessible via keyboard, but it has one major bug: 
+<br>after the first roll, the focus does not move to the first unfrozen die.
+<br>Check back later, I will get it to work! I am also welcoming any suggestions.
+<br>Thank you in advance.
+
 
 
 <br>♿️ **A digital product that is not accessible, it is NOT ready.
