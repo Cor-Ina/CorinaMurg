@@ -24,7 +24,7 @@ Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/C
 <br>  2, 2, 1, 5, 1, 1. All values of 1 have a yellow background because they are 
 <br>frozen values. Last element is a blue roll button.
 <br>
-[<img alt="Screenshot of the Tenzies game. " src="./images/Tenzies.jpg" width="400" height="auto">](https://corina-tenzies.netlify.app/)
+[<img alt="Screenshot of the Tenzies game. " src="./images/Tenzies.jpg" width="300" height="auto">](https://corina-tenzies.netlify.app/)
 <br>The game is accessible via keyboard, but it has one major bug: 
 <br>after the first roll, the focus does not move to the first unfrozen die.
 <br>Check back later, I will get it to work! I am also welcoming any suggestions.
