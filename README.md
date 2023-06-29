@@ -14,9 +14,9 @@ Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/C
 - JavaScript
 - Figma + Sketch
 
-<br>📚 **Currently learning: React, Sass**
+<br>📚 **Currently learning: React, SCSS**
 <br>
-<br>Quick link to my current React project, [**Tenzies**](https://corina-tenzies.netlify.app/), a number game
+<br>Quick overview of my current React project, [**Tenzies**](https://corina-tenzies.netlify.app/), a number game:
 <br>
 <br>Image description: Snapshot of a game on Tenzies. The rules read:
 <br>"Roll until all dice are the same. Click each die to freeze it at its current
