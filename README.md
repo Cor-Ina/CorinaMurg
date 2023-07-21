@@ -1,21 +1,35 @@
 👋 **Hi, I'm Corina, a frontend developer with a background in math teaching.**
 <br>
-<br> My current work involves translating modern designs created by 
-<br> [Frontend Mentor](https://www.frontendmentor.io) into accessible and responsive websites.
+<br>I love translating modern designs into accessible and responsive websites.
+<br>
+<br>These days I am putting to work my newly acquired React skills to develop a one-of-a-kind 
+<br>tourism website. Do you want to visit the most beautiful libraries in the world?
+<br>Or maybe the homes of your favorite authors? Why not the places that inspired the world's
+<br>most beautiful poems? My website will open the door to your dream cultural adventure!
 
-Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina)** to learn more about my work.
-<br>I **WELCOME** questions about my code or suggestions on how to improve it, <br>especially on features related to accessibility.
+Please visit **[my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina)** to learn more about some of my previous work.
+<br>I always **WELCOME** questions about my code or suggestions on how to improve it, <br>especially on features related to accessibility.
 
 
 
 <br>🛠 **My tools:**
-- CSS, BEM
+- CSS, SCSS, BEM
 - A11y
-- JavaScript
-- Figma + Sketch
+- JavaScript, React
+- Firebase
+- Figma
 
-<br>📚 **Currently learning: React, SCSS**
+<br>📚 **Currently learning: NextJS**
 <br>
+
+<br>📜 **My web development certifications:**
+<br>
+- Meta: Introduction to Frontend Development​
+- Google: Foundations of User Experience Design
+- freeCodeCamp: JavaScript Algorithms and Data Structures
+- LinkedIn: Accessibility for Web Design
+
+
 <br>Quick overview of my current React project, [**Tenzies**](https://corina-tenzies.netlify.app/), a number game:
 <br>
 <br>Image description: Snapshot of a game on Tenzies. The rules read:
