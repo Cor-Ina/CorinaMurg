@@ -3,6 +3,7 @@
 <br>I love translating modern designs into accessible and responsive websites.
 <br>
 <br>These days I am excited to be putting to use my newly acquired REACT skills. 🎉 
+<br>⬇️ Please scroll below to look at my latest projects!
 <br>
 <br>Just completed [TWAIN & COMPANY](https://twain-and-company.netlify.app/), a bookstore website  •  Features a shopping cart 
 <br>that displays cart items and total amount when clicked • Used Firebase to store 
