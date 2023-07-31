@@ -22,6 +22,9 @@
 - Figma
 
 <br>📚 **Currently learning: NextJS**
+<br>
+<br>🔍 **Foundational knowledge: C, Python**
+<br>
 <br>⚙️ **Curious about: C++**
 
 
