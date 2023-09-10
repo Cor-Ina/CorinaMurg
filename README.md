@@ -1,9 +1,10 @@
 👋 **Hi, I'm Corina, a web developer with a background in math teaching.**
 <br>
 <br>I am currently on my frontend journey focusing on JavaScript, HTML, and CSS,
-<br>but I am equally curious about the inner workings of backend environment
+<br>but I am equally curious about the inner workings of an application's backend,
+<br>and plan on diving back into Python and SQL real soon.
 <br>
-<br>I love translating modern designs into accessible and responsive websites.
+<br>I love translating modern designs into accessible and responsive websites!
 <br>These days I am excited to be putting to use my newly acquired REACT skills. 🎉 
 <br>⬇️ Please scroll below to look at my latest projects!
 <br>
@@ -11,21 +12,20 @@
 <br>that displays cart items and total amount when clicked • Used Firebase to store 
 <br>books data and cover images  •  Book orders are also submitted to Firebase 
 <br>
-
 <br>Please visit [my Frontend Mentor page](https://www.frontendmentor.io/profile/Cor-Ina) to learn more about some of my previous work.
 <br>I always **WELCOME** questions about my code or suggestions on how to improve it, <br>especially on features related to accessibility.
-
-
+<br>
 <br>🛠 **My tools:**
 - JavaScript, React
 - CSS, BEM
 - A11y
 - Firebase
+- Git
 - Figma
 
 <br>📚 **Currently learning: TypeScript**
 <br>
-<br>🔍 **Foundational knowledge: C, Python**
+<br>🔍 **Foundational knowledge: C, Python, SQL**
 <br>
 <br>⚙️ **Curious about: C++**
 
