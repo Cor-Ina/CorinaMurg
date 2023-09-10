@@ -1,7 +1,9 @@
-👋 **Hi, I'm Corina, a frontend developer with a background in math teaching.**
+👋 **Hi, I'm Corina, a web developer with a background in math teaching.**
+<br>
+<br>I am currently on my frontend journey focusing on JavaScript, HTML, and CSS,
+<br>but I am equally curious about the inner workings of backend environment
 <br>
 <br>I love translating modern designs into accessible and responsive websites.
-<br>
 <br>These days I am excited to be putting to use my newly acquired REACT skills. 🎉 
 <br>⬇️ Please scroll below to look at my latest projects!
 <br>
@@ -16,12 +18,12 @@
 
 <br>🛠 **My tools:**
 - JavaScript, React
-- CSS, SCSS, BEM
+- CSS, BEM
 - A11y
 - Firebase
 - Figma
 
-<br>📚 **Currently learning: NextJS**
+<br>📚 **Currently learning: TypeScript**
 <br>
 <br>🔍 **Foundational knowledge: C, Python**
 <br>
