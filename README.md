@@ -1,6 +1,6 @@
 👋 **Hi, I'm Corina, a self-taught software engineer with a background in math teaching.**
 <br>
-<br>I’ve embraced and fallen in love with every single programming language I’ve encountered, but decided to take the frontend path and therefore focus on JavaScript, HTML, and CSS. My background is in creating learning experiences that are inclusive and accessible. For that reason, the frontend's concern with creating accessible web products deeply resonates with me.
+<br>I’ve embraced every single programming language I’ve encountered (Java, C, Python), but decided to take the frontend path and therefore focus on JavaScript, HTML, and CSS. My background is in creating learning experiences that are inclusive and accessible. For that reason, the frontend's concern with creating accessible web products deeply resonates with me.
 
 **What am I building?**
 <br>Curious about some of my projects? I am currently working on a meal planner app using JavaScript and the OpenAI API. 🎉
