@@ -14,11 +14,11 @@ Please [checkout my latest posts](https://www.corinamurg.dev/blog).
 
 <br>🛠 **My tools:**
 <br>
-<br>**JavaScript**  •  **NodeJS**  •  **React**  •  **Express**
+<br>**JAVASCRIPT**  •  **NODEJS**  •  **REACT**  •  **EXPRESS**
 <br>
-<br>**CSS**  •  **BEM**  •  **HTML**  •  **A11y**  •  **Figma**
+<br>**CSS**  •  **BEM**  •  **HTML**  •  **ACCESSIBILITY**  •  **FIGMA**
 <br>
-<br>**Git**  •  **Firebase**  •  **OpenAI API**  
+<br>**GIT**  •  **FIREBASE**  •  **OpenAI API**  
 
 <br>🔍 **Foundational knowledge: C, Python, SQL**
 <br>
