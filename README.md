@@ -1,6 +1,7 @@
 👋 **Hi, I'm Corina, a self-taught software engineer with a background in math teaching.**
 <br>
-<br>My background is in creating learning experiences that are inclusive and accessible. For that reason, the frontend's concern with accessible web products deeply resonates with me.
+<br>My background is in creating learning experiences that are inclusive and accessible. 
+<br>For that reason, the frontend's concern with accessible web products deeply resonates with me.
 
 **My Projects**
 <br>📚 [Twain & Company](https://twain-and-company.netlify.app/), a bookstore website in React
@@ -24,10 +25,9 @@ Please [checkout my latest posts](https://www.corinamurg.dev/blog).
 
 <br>🔍 **Foundational knowledge: C, Python, SQL**
 <br>
-<br>⚙️ **Curious about: C++**
-
+<br>👷 **I am open to collaborating on a11y / JavaScript / React projects.**
 <br>I always **WELCOME** questions about my code or suggestions on how to improve it, especially on features related to accessibility.
 <br>
 
                          
-<br>👷 **I am open to collaborating on a11y / JavaScript / React projects.**
+
