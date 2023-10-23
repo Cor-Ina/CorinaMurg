@@ -1,10 +1,14 @@
-# Hi, I'm Corina! 
+# Hello, I'm Corina! 
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&style=flat-square)
+![My Blog](https://img.shields.io/badge/-My_Blog-%23333333?labelColor=333333&color=333333&style=flat-square&logo=blogger)
+![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2&style=flat-square)
+
+
 I am a self-taught software engineer with a background in math teaching.
 <br>
-<br>As a teacher my focus was on creating learning experiences that were inclusive and accessible. 
-<br>For that reason, the frontend's concern with accessible web products deeply resonates with me.
+<br>As a teacher my focus was on creating learning experiences that were inclusive and accessible. For that reason, the frontend's concern with accessible web products deeply resonates with me.
 <br>
-<br>
+<br>I am excited to collaborate on projects with developers from all over the world, and engage in conversations about our responsibility to ensure that every user feels seen and valued. I believe in a web where everyone has a place!
 
 ## My Projects
 🎮 [Lava Leap](https://lava-leap.netlify.app/), a 2D platform game built withJavaScript and ES6 classes and constructors.
