@@ -1,33 +1,44 @@
-👋 **Hi, I'm Corina, a self-taught software engineer with a background in math teaching.**
+# Hi, I'm Corina! 
+I am a self-taught software engineer with a background in math teaching.
 <br>
-<br>My background is in creating learning experiences that are inclusive and accessible. 
+<br>As a teacher my focus was on creating learning experiences that were inclusive and accessible. 
 <br>For that reason, the frontend's concern with accessible web products deeply resonates with me.
-
-**My Projects**
-<br>📚 [Twain & Company](https://twain-and-company.netlify.app/), a bookstore website in React
-<br>📝 [Neat Notes](https://neatnotes.netlify.app/), my favorite note-taking application for desktop. 😉
-<br>🎮 [Lava Leap](https://lava-leap.netlify.app/), a 2D platform game built withJavaScript and ES6 classes and constructors
-
-**What am I building?**
-<br>I am currently working on a meal planner app using JavaScript and the OpenAI API. 🎉
-
-**What am I writing?**
-<br>I love to learn and share! I'm always diving into new topics on my blog. 
-Please [checkout my latest posts](https://www.corinamurg.dev/blog).
-
-<br>🛠 **My tools:**
 <br>
-<br>**JAVASCRIPT**  •  **NODEJS**  •  **REACT**  •  **EXPRESS**
 <br>
-<br>**CSS**  •  **BEM**  •  **HTML**  •  **ACCESSIBILITY**  •  **FIGMA**
-<br>
-<br>**GIT**  •  **FIREBASE**  •  **OpenAI API**  
 
-<br>🔍 **Foundational knowledge: C, Python, SQL**
+## My Projects
+🎮 [Lava Leap](https://lava-leap.netlify.app/), a 2D platform game built withJavaScript and ES6 classes and constructors.
+<br>📚 [Twain & Company](https://twain-and-company.netlify.app/), a bookstore website in React.
+<br>📜 [Neat Notes](https://neatnotes.netlify.app/), my favorite note-taking application for desktop. 😉
 <br>
+
+### What am I working on right now?
+- A meal planner app using JavaScript and the OpenAI API 🎉
+- Improving Lava Leap's game mechanics 
+- Contribute to the development of an HTML tag quiz with the [YurisCodingClub](https://www.yuriscodingclub.com/), an open-source community. To checkout our work so far, please [visit the GitHub page for our project](https://github.com/YurisCodingClub/html-tag-quiz)
+<br>
+
+## 🛠 Languages and tools:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-%23A12DAB?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-%2300A4A2?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-%23D83367.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%236C2D95.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<br>
+
+## 📝 Latest Blog Posts
+I love to learn and share! 
+<br>I'm always diving into new topics on my blog. Please checkout my latest posts:
+
+- [The Temporal Dead Zone in JavaScript](https://www.corinamurg.dev/post/temporal-dead-zone)
+- [The New at() Method in JavaScript](https://www.corinamurg.dev/post/the-new-at-method)
+
+
 <br>👷 **I am open to collaborating on a11y / JavaScript / React projects.**
-<br>I always **WELCOME** questions about my code or suggestions on how to improve it, especially on features related to accessibility.
-<br>
+
 
                          
 
