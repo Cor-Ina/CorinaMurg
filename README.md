@@ -11,10 +11,11 @@ I am a self-taught software engineer with a background in math teaching.
 <br>I am excited to collaborate on projects with developers from all over the world, and engage in conversations about our responsibility to ensure that every user feels seen and valued. I believe in a web where everyone has a place!
 
 ## My Projects
-🎮 [Lava Leap](https://lava-leap.netlify.app/), a 2D platform game built withJavaScript and ES6 classes and constructors.
-<br>📚 [Twain & Company](https://twain-and-company.netlify.app/), a bookstore website in React.
+🎮 [Lava Leap](https://lava-leap.netlify.app/), a 2D platform game built with JavaScript and ES6 classes and constructors. Still improving!
+<br>♿ [Accessibility Engineer Project](https://a11y-engineer.netlify.app/), a project to test my accessibility implementation skills.
+<br>📚 [Twain & Company](https://twain-and-company.netlify.app/), a bookstore website built in React.
 <br>📜 [Neat Notes](https://neatnotes.netlify.app/), my favorite note-taking application for desktop. 😉
-<br>
+<br>🌍 [Space Tourism](https://corina-space-tourism.netlify.app/), an accessibile and responsive project based on a design from Frontend Mentor.
 
 ### What am I working on right now?
 - A meal planner app using JavaScript and the OpenAI API 🎉
