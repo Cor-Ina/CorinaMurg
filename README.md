@@ -18,7 +18,6 @@ I am a self-taught software engineer with a background in math teaching.
 <br>🌍 [Space Tourism](https://corina-space-tourism.netlify.app/), an accessibile and responsive project based on a design from Frontend Mentor.
 
 ### What am I working on right now?
-- A meal planner app using JavaScript and the OpenAI API 🎉
 - Improving Lava Leap's game mechanics 
 - Contribute to the development of an HTML tag quiz with the [YurisCodingClub](https://www.yuriscodingclub.com/), an open-source community. To checkout our work so far, please [visit the GitHub page for our project](https://github.com/YurisCodingClub/html-tag-quiz)
 <br>
