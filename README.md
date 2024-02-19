@@ -4,7 +4,7 @@
 [![WebForEveryone.us](https://img.shields.io/badge/-WebForEveryone.us-%23ffb703?labelColor=ffb703&color=ffb703&style=flat-square&logo=accessible-icon)](https://webforeveryone.us)
 [![My Blog](https://img.shields.io/badge/-My_Blog-%23333333?labelColor=333333&color=333333)](https://dev.to/corinamurg)
 
-I'm a self-taught frontend developer with a background in math teaching, and a passion for accessibility.
+I'm a self-taught frontend developer with a background in math teaching and a passion for accessibility.
 <br>
 <br>I'm an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
 <br>
