@@ -4,20 +4,16 @@
 [![WebForEveryone.us](https://img.shields.io/badge/-WebForEveryone.us-%23ffb703?labelColor=ffb703&color=ffb703&style=flat-square&logo=accessible-icon)](https://webforeveryone.us)
 [![My Blog](https://img.shields.io/badge/-My_Blog-%23333333?labelColor=333333&color=333333)](https://dev.to/corinamurg)
 
-
-
-I am a self-taught frontend developer with a background in math teaching, and believe in a web where everyone has a place!
+I'm a self-taught frontend developer with a background in math teaching, and a passion for accessibility.
 <br>
-<br>I am an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
+<br>I'm an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
 <br>
-<br>I created [Web for Everyone](https://webforeveryone), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a beginner friendly source of
+<br>I created [Web for Everyone](https://webforeveryone), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
+beginner-friendly source of
 - articles on accessibility essentials;
 - techniques to avoid common accessibility bugs in portfolio sites or projects.
-## My Current Work
-<br>♿ [Web for Everyone](https://webforeveryone.us), accessibility-focused platform using React and TypeScript, and incorporating Playwright for automated testing; 
-<br>
 
-📚 [Tagged! The Html Quiz](https://github.com/YurisCodingClub/html-tag-quiz), a project with [Yuris Coding Club](https://www.yuriscodingclub.com/), an open-source community focused on inclusion and accessibility. The project's goal is threefold:
+I am a frontend developer and maintainer with the [Yuris Coding Club](https://www.yuriscodingclub.com/), an open-source community focused on inclusion and accessibility.  [Tagged! The Html Quiz](https://github.com/YurisCodingClub/html-tag-quiz) is a current project whose goal is threefold:
 - engage developers and designers from around the globe in conversations about accessibility
 - raise awareness about the importance of semantic HTML in creating accessible websites
 - test developers' knowledge on HTML tags
