@@ -4,21 +4,27 @@
 [![WebForEveryone.us](https://img.shields.io/badge/-WebForEveryone.us-%23ffb703?labelColor=ffb703&color=ffb703&style=flat-square&logo=accessible-icon)](https://webforeveryone.us)
 [![My Blog](https://img.shields.io/badge/-My_Blog-%23333333?labelColor=333333&color=333333)](https://dev.to/corinamurg)
 
-I'm a self-taught frontend developer with a background in math teaching and a passion for accessibility.
+A self-taught frontend developer with a background in math teaching and a passion for accessibility.
 <br>
-<br>I'm an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
+<br>✔️ I'm an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
 <br>
-<br>I created [Web for Everyone](https://webforeveryone), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
+<br>✔️ I created [Web for Everyone](https://webforeveryone), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
 beginner-friendly source of
 - articles on accessibility essentials;
 - techniques to avoid common accessibility bugs in portfolio sites or projects.
 
-I am a frontend developer and maintainer with the [Yuris Coding Club](https://www.yuriscodingclub.com/), an open-source community focused on inclusion and accessibility.  [Tagged! The Html Quiz](https://github.com/YurisCodingClub/html-tag-quiz) is a current project whose goal is threefold:
+✔️ I am a frontend developer and maintainer with the [Yuris Coding Club](https://www.yuriscodingclub.com/), an open-source community focused on inclusion and accessibility.  [Tagged! The Html Quiz](https://github.com/YurisCodingClub/html-tag-quiz) is a current project whose goal is threefold:
 - engage developers and designers from around the globe in conversations about accessibility
 - raise awareness about the importance of semantic HTML in creating accessible websites
 - test developers' knowledge on HTML tags
 <br>
 
+## 🏆 Accolades:
+✔️ Awarded the Hacktoberfest 2023 badge for contributing 4+ high-quality pull/merge requests that met the quality standards
+<br>
+<br>✔️ Received [high praise for the quality of my PRs](https://twitter.com/YuriDevAT/status/1712030283313352928)
+<br>
+<br>
 ## 🛠 Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
