@@ -8,7 +8,7 @@ A self-taught frontend developer with a background in math teaching and a passio
 <br>
 <br>✔️ I'm an Accessibility Specialist with a [DHS Trusted Tester certification](https://www.linkedin.com/feed/update/urn:li:activity:7164319315268124672/). 
 <br>
-<br>✔️ I created [Web for Everyone](https://webforeveryone), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
+<br>✔️ I created [Web for Everyone](https://webforeveryone.us), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
 beginner-friendly source of
 - articles on accessibility essentials;
 - techniques to avoid common accessibility bugs in portfolio sites or projects.
