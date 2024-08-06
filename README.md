@@ -14,12 +14,6 @@ beginner-friendly source of
 - techniques to avoid common accessibility bugs in portfolio sites or projects.
 <br>
 
-## 🏆 Accolades:
-✔️ Awarded the Hacktoberfest 2023 badge for contributing 4+ high-quality pull/merge requests
-<br>
-<br>✔️ Received [high praise for the quality of my PRs](https://twitter.com/YuriDevAT/status/1712030283313352928)
-<br>
-<br>
 ## 🛠 Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
