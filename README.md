@@ -28,10 +28,10 @@ I love to learn and share!
 <br>Please checkout my latest posts:
 
 - [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
-- [Your Portfolio Site: Let's Make It Accessible! Fixing the 6 Most Common Bugs](https://webforeveryone.us/resources/make-it-accessible-part1)
+- [Fixing the 6 Most Common Accessibility Bugs](https://webforeveryone.us/blog/fixing-the-six-most-common-bugs)
 
 
-<br>👷 **I am open to collaborating on a11y / JavaScript / React projects.**
+<br>👷 **I am open to collaborating on a11y / JavaScript / Playwright projects.**
 
 
                          
