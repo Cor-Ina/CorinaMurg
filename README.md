@@ -24,7 +24,7 @@ beginner-friendly source of
 <br>
 <br>
 
-## Current focus:
+## 🔎 Current focus:
 I'm deep diving into tools like Playwright and DevTools that help developers stay mindful of accessibility.
 - Do you know that 96% of home pages have accessibility bugs? But do you also know that you can automate testing for them with Playwright and the axe-core library? True!
 
