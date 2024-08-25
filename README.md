@@ -10,8 +10,9 @@ A self-taught frontend developer with a background in math teaching and a passio
 <br>
 <br>✔️ I created [Web for Everyone](https://webforeveryone.us), an initiative dedicated to teaching junior developers to actively embrace accessibility. The project is a 
 beginner-friendly source of
-- articles on accessibility essentials;
-- techniques to avoid common accessibility bugs in portfolio sites or projects.
+- articles on foundational concepts;
+- techniques to avoid common accessibility bugs;
+- code examples.
 <br>
 
 ## 🛠 Languages and tools:
@@ -22,6 +23,10 @@ beginner-friendly source of
 ![Playwright](https://img.shields.io/badge/Playwright-%2312B36D.svg?style=for-the-badge&logo=playwright&logoColor=white)
 <br>
 <br>
+
+## Current focus:
+I'm deep diving into tools like Playwright and DevTools that help developers stay mindful of accessibility.
+- Do you know that 96% of home pages have accessibility bugs? But do you also know that you can automate testing for them with Playwright and the axe-core library? True!
 
 ## 📝 Latest Blog Posts
 I love to learn and share! 
