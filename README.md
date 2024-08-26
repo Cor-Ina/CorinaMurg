@@ -15,7 +15,7 @@ beginner-friendly source of
 - code examples.
 <br>
 
-## 🛠 Languages and tools:
+## 🛠 Languages and tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -24,10 +24,10 @@ beginner-friendly source of
 <br>
 <br>
 
-## 🔎 Current focus:
-Deep diving into tools that assist developers in identifying and resolving accessibility issues effectively.
-- Accessibility Automation with Playwright: Exploring and testing various functions in Playwright to determine which accessibility checks could be automated and integrated into the CI/CD pipeline to prevent accessibility issues from reaching production.
-- Chromium Codebase Exploration: Diving into the Chromium codebase to understand the principles behind the construction of the accessibility tree, a crucial tool for debugging for accessibility
+## 🔎 Current focus
+Deep diving into tools that assist developers in identifying and resolving accessibility issues effectively:
+- Accessibility Automation with Playwright: I'm exploring and testing various functions in Playwright to determine which accessibility checks could be automated and integrated into the CI/CD pipeline to prevent accessibility issues from reaching production.
+- Chromium Codebase exploration: I'm working to understand the principles behind the construction of the accessibility tree, a crucial tool for debugging for accessibility
 
 ## Did you know?
 - 96% of home pages have accessibility bugs. But did you know you can automate testing for these issues using Playwright and the axe-core library? It's true!
