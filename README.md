@@ -36,7 +36,7 @@ Deep diving into tools that assist developers in identifying and resolving acces
 
 ## 💡 Did you know?
 - 96% of home pages have accessibility bugs. But did you know you can automate testing for these issues using Playwright and the axe-core library? It's true!
-- The accessibility tree, available via DevTools in all major browsers, can help detect critical accessibility bugs, such as unfocusable buttons or links without accessible names. Also true!
+- The accessibility tree, available via DevTools in all major browsers, can help detect critical accessibility bugs, such as unfocusable buttons or links without accessible names? Also true!
 
 Please reach out if you’d like to learn more about these tools!
 
