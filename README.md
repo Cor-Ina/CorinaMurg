@@ -25,12 +25,20 @@ beginner-friendly source of
 <br>
 
 ## 🔎 Current focus:
-I'm deep diving into tools like Playwright and DevTools that help developers stay mindful of accessibility.
-- Do you know that 96% of home pages have accessibility bugs? But do you also know that you can automate testing for them with Playwright and the axe-core library? True!
+Deep diving into tools that assist developers in identifying and resolving accessibility issues effectively.
+- Accessibility Automation with Playwright: Exploring and testing various functions in Playwright to determine which accessibility checks could be automated and integrated into the CI/CD pipeline to prevent accessibility issues from reaching production.
+- Chromium Codebase Exploration: Diving into the Chromium codebase to understand the principles behind the construction of the accessibility tree, a crucial tool for debugging for accessibility
+
+## Did you know?
+- 96% of home pages have accessibility bugs. But did you know you can automate testing for these issues using Playwright and the axe-core library? It's true!
+- The accessibility tree, accessible via DevTools in all major browsers, can help detect critical accessibility bugs, such as unfocusable buttons or links without accessible names. Also true!
+<br>
+Please reach out if you’d like to learn more about these tools!
 
 ## 📝 Latest Blog Posts
 I love to learn and share! 
-<br>Please checkout my latest posts:
+<br>
+Please checkout my latest posts:
 
 - [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
 - [Fixing the 6 Most Common Accessibility Bugs](https://webforeveryone.us/blog/fixing-the-six-most-common-bugs)
