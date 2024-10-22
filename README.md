@@ -27,18 +27,10 @@ beginner-friendly source of
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
-<br>
-
-## 🔎 Current focus
-Deep diving into tools that assist developers in identifying and resolving accessibility issues effectively:
-- Accessibility Automation with Playwright: I'm exploring and testing various functions in Playwright to determine which accessibility checks could be automated and integrated into the CI/CD pipeline to prevent accessibility issues from reaching production.
-- Chromium Codebase exploration: With the help of Chromium engineers, I'm working to understand the principles behind the construction of the accessibility tree, a crucial tool for debugging for accessibility
 
 ## 💡 Did you know?
 - 96% of home pages have accessibility bugs. But did you know you can automate testing for these issues using Playwright and the axe-core library? It's true!
 - The accessibility tree, available via DevTools in all major browsers, can help detect critical accessibility bugs, such as unfocusable buttons or links without accessible names? Also true!
-
-Please reach out if you’d like to learn more about these tools!
 
 ## 📝 Latest Blog Posts
 I love to learn and share! 
